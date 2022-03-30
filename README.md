@@ -5,7 +5,7 @@
 <i><h3 align = "center"> Use less produce more </h3></i>
 
 <p align="center">
-  <img width="1080 "height="600 " src=" " alt="">
+  <img width="900 "height="450 " src="https://github.com/Y-133/99007456-aquaponics_management_system/blob/7c6253c3a1df25032f3f3923f015ada1a52585b9/Images/aquaponics_2.jpg " alt="">
 </p>
 
 
