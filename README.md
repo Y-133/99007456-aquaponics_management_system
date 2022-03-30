@@ -2,7 +2,7 @@
 ### This is a python based project that aims to manage the aquaponics farm  
 
 <h1 align="center"> Aquaponics Management System </h1>
-<i><h3 align = "center"> SPACE WARRIOR is a arduino based gaming console that runs a game space war.  </h3></i>
+<i><h3 align = "center"> Use less produce more </h3></i>
 
 <p align="center">
   <img width="1080 "height="600 " src=" " alt="">
