@@ -1,1 +1,1 @@
-## Images used in the projects are sourced from this folder.
+## Output snap shot of the project is placed here.
