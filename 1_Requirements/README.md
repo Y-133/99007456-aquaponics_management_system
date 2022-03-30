@@ -2,7 +2,8 @@
 
 ## Product research ## 
 ####
-The gaming industry is arguably one of the most important and innovative sectors in tech today. Its importance to culture, social networking and entertainment cannot be understated. As many enjoy the immersive gaming, there is also a cheering audience who are willing to play the old gold games like Mario bros, Pac Man and so on. The best handheld gaming consoles can keep you entertained anywhere. Unlike PC or other gaming consoles they are portable and lightweight. These are moderately powerful, lightweight machines that are easy to stash in a backpack, or even a pocket, and come at low cost when DIY'ed.  With an ever growing audience in the gaming world it is more reasonable to develop a handheld gaming console at low cost.
+
+ Aquaponics combines aquaculture (raising of fish and other aquatic animals) and hydroponics (growing plants without soil). In this growing method, plants are grown in the grow bed, and fish are placed in the fish tank. The water from the fish tank that contains fish waste is fed to the grow bed, where billions of naturally occurring beneficial bacteria break the ammonia down into nitrites and then into nitrates. Plants absorb these nitrates and other nutrients to help them grow. The plant's roots clean and filter the water in before it flows back into the fish tank for the fish to live. The fresh, clean, and oxygenated water recirculates back to the fish tank, where the cycle will begin again. </p>
 ####
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## BENIFITS: ##  
