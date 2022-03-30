@@ -11,6 +11,7 @@
 
 ## SUMMARY ##
 <p align="justify">
+ Aquaponics combines aquaculture (raising of fish and other aquatic animals) and hydroponics (growing plants without soil). 
  
  --------------------------------------------------------------------------
 ## Folder structure ##
@@ -21,7 +22,7 @@
 | 3_Implementation | All code and documentation |
 | 4_Test_plan | Documents with test plans and procedures |
 | 5_Report | Document describing all about the project |
-| 6_ImagesAndVideos | Contains the video explaining the project |
+| 6_Output | Contains the video explaining the project |
 | 7_other | The folder contains other additional information about the project |
 | README| This file describes the overview of the project and all the required components to know about the project.
 
