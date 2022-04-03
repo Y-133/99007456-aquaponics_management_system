@@ -17,13 +17,14 @@
 ## TABLE_NO: HL_1 ##
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test** |    
 | :---------: | :----------------------------------------------------------: | :---------: | :---------: | :------------: | :-------------: |
-|  H_01       | Console shall turn on and the game runs | Power supply | Game running without error| no error |Mannual |
-|  H_02       | Audio output: When the console is turned on the speaker shall turn on| Signal from the controller | Speaker works | no error |Mannual |
-|  H_03       | RTD sensor working is checked by varying the temperature | The temperature knob in the IDE is changed to obervee the change in temperature| Temperature change and auto cooling system turns on | no error |Mannual |
-|  H_04       | Fan runs when poewred using the PWM signal from the controller | Controller signal | Fan turns on | Fan turns on  |Mannual |
-|  H_05       | Fan turns off after cooling the console  |  Controller signal | Fan turns off | Fan turns off  |Mannual |
-|  H_06       | OLED screen turns on and the game is viewed | Controller signal | Displays game | Game is displayed |Mannual |
-
+|  H_01       | Input the choices to select menus  | choice =1 | input_material_stock_new | total_purchase_cost | total_purchase_cost | Manual |
+|  H_02       |  Input the choices to select menus  | choice =2 |  NA | NA | Output a report on the crop health | Manual |
+|  H_03       | Input the choices to select menus   | choice =3 | Harvest details: Amount of fish or plant | Output the income generated| Output the income generated | Manual |
+|  H_04       | Input the choices to select menus   | choice =4 | Input a report on the plant health | Display the report | Display the report | Manual |
+|  H_05       | Input the choices to select menus   | choice =5 | Plant report: input the chemical levels in the water| Whether the water is safe or not | Whether the water is safe or not | Manual |
+|  H_06       | Input the choices to select menus   | choice =6 | Manual on/off fire alarm | Fire alarm on | Manual |
+|  H_07       | Input the choices to select menus   | choice = 7| quit | program got closed | Manual | 
+ 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Table no: Low level test plan
@@ -31,10 +32,15 @@
 ## TABLE_NO: LL_1 ##
 | **High_leve_Test ID** | **Low_leve_Test ID** | **Description**       | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 | :-------------------: | :------------------: | :-------------------: | :--------: | :---------: |:-------------: | :--------------: |
-| H_01 | L_01.1 | Console shall turn on with 5V | 5V supply | Game running without error | The game starts run with audio ouput| mannual |
-| H_02  | L_2.1 | Audio output: When the console is turned on the speaker shall turn on  |  Signal from the controller |Speaker works |The intro notes and the game sound is played using the speaker | mannual |
-| H_03 | L_3.1 | RTD sensor working is checked by varying the temperature | The temperature knob in the IDE is changed to obervee the change in temperature |Temperature change and auto cooling system turns on | no error |Mannual |
-| H_04  | L_.4.1| Fan runs when poewred using the PWM signal from the controller | Controller signal | Fan turns on | Fan turns on  |Mannual ||
-|  H_05 | L_5.1 | Fan turns off after cooling the console  |  Controller signal | Fan turns off | Fan turns off  |Mannual |
-|  H_06 | L_6.1 | OLED screen turns on and the game is viewed | Controller signal | Displays game | Game is displayed |Mannual |
+| H_01 | L_1.1 | Input the fish quantity, price | Total cost | Total cost | Manual |
+|  | L_1.2 | Input the plant quantity, price | Total cost | Total cost | Mannual |
+| H_02 | L_2.1 | Crop report | NA | Plant health report | Plant health report  | Mannual |
+| H_03 | L_3.1 | Amount of fish or plant | Output the income generated | Output the income generated |Mannual |
+| H_04 | L_4.1 | Plant health | Display the report| Display the report |Mannual |
+| H_05 | L_5.1 | Input the nitrite level | Safety level of the water | Safety level of the water |Mannual |
+|  | L_5.2 | Input the ammonia level | Safety level of the water | Safety level of the water | Manual |
+|  | L_5.3 | Input from the sensor | Safety level of the water | Safety level of the water | Manual |
+| H_06 | L_6.1 | Fire alarm override |Manual on fire alarm | Manual on fire alarm  |Mannual |
+|  | L_6.2 | Fire alarm override |Manual off fire alarm | Manual off fire alarm  |Mannual |
+| H_07 | L_7.1 | Exit the system | Program close | Program close | Manual | 
 ------------------------------------------------------------------------------------------------
