@@ -1,5 +1,5 @@
 ## 99007456-aquaponics_management_system
-### This is a python based project that aims to manage the aquaponics farm  
+### This is a python based project that aims to manage the aquaponics farm.   
 
 <h1 align="center"> Aquaponics Management System </h1>
 <i><h3 align = "center"> Use less produce more </h3></i>
@@ -11,8 +11,13 @@
 
 ## SUMMARY ##
 <p align="justify">
- Aquaponics combines aquaculture (raising of fish and other aquatic animals) and hydroponics (growing plants without soil). 
+ Aquaponics combines aquaculture (raising of fish and other aquatic animals) and hydroponics (growing plants without soil). In this farming technique takes lesser area foot printhe plants are grown with smalller area footprint consuming less water and almost guaranteed food production through out the year. To support the farmers or business entruppreneurs to manage their aquaponics farm effectively, the proposed managing software can be used.  </p>
  
+#### This software aims to 
+1) Maintain the stocks of materials purchased  
+2) Farm environment monitoring and managing 
+3) Finance management      
+4) Fire accident monitoring system 
  --------------------------------------------------------------------------
 ## Folder structure ##
 | Folder | Description|
@@ -27,20 +32,10 @@
 | README| This file describes the overview of the project and all the required components to know about the project.
 
 ----------------------------------------------------------------------------
-## CHALLENGES FACED: ##
-####
-1. 
-2. 
-####
-
 ## REFERENCES:
-1. 
+1. https://gogreenaquaponics.com/blogs/news/what-are-the-benefits-of-aquaponics
+2. https://gogreenaquaponics.com/blogs/news/ultimate-aquaponics-beginners-guide
+3. https://www.programiz.com/python-programming/class
+  
+  
 ---------------------------------------------------------------------------------------------------
-# FEEDBACK: 
-
-   <body>
-      <a href = "https://forms.gle/qesNg4Qc73XfuXkT6" target = "_self"> 
-         <img src = "https://github.com/Y-133/M2-EmbSys/blob/f58359ae2250b86e70ce3565c56ce943c2a1e107/PROJECT/IMAGES/halo2.jpg" alt = "chief commander Bose" border = "0"/> 
-      </a>
-      <p align =" center"> Meet chief commander Bose. Tell him your valuable feedback. <br> Thanks in advance. </p> 
-   </body>
