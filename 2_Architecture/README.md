@@ -1,6 +1,3 @@
-This folder contain the structural and behavioural diagram
-
-| Folder | Description |
-| --- | --- |
-| Behavioural Diagram | This folder contains sequence diagram and flow diagram |
-| Structural Diagram | This folder includes the diagram of functions included |
+## This folder has the diagrams that explains the software design.  
+1) Use case diagram
+2) Flow chart
