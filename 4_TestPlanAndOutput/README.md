@@ -2,17 +2,15 @@
  * Test plans are very helpful in checking the behaviour of the program, variables and function for different values
 ------------------------------------------------------------------------------------------------
 ## How to run the test? ##
-* Load the Simulide file and arduino file in Simulide software and run the project.  
-* RTD sensor value is changed using the knob feature and corresponding temperature change can be observed.
-* Use the control buttons to move the space ship.
+* Load the file using the python IDE and run the code
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## FEATURES: ##
 ####
-1. OLED screen
-2. Effective auto cooling system
-3. Portable console and has an USB chargeable features.
-4. Powerful audio
-####
+1. Stock management
+2. Farm environment monitoring system
+3. Finance management
+4. Data record of the production in the farm
+5. Emergency farm fire alarm system
 ----------------------------------------------------------------------------------------------------------------
 ## High level test plan
 
