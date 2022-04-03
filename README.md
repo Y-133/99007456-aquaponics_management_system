@@ -11,10 +11,10 @@
 
 ## SUMMARY ##
 <p align="justify">
- Aquaponics combines aquaculture (raising of fish and other aquatic animals) and hydroponics (growing plants without soil). In this farming technique takes lesser area foot printhe plants are grown with smalller area footprint consuming less water and almost guaranteed food production through out the year. To support the farmers or business entruppreneurs to manage their aquaponics farm effectively, the proposed managing software can be used.  </p>
+ Aquaponics combines aquaculture (raising of fish and other aquatic animals) and hydroponics (growing plants without soil). In this farming technique takes lesser area foot printhe plants are grown with smalller area footprint consuming less water and almost guaranteed food production through out the year. To support the farmers or business entruppreneurs to manage their aquaponics farm effectively, the proposed managing software can be used. The sesnor functionality are emulated and the data are processed accordingly or approximately. </p>
  
 #### This software aims to 
-1) Maintain the stocks of materials purchased  
+1) Maintain the stocks of materials   
 2) Farm environment monitoring and managing 
 3) Finance management      
 4) Fire accident monitoring system 
