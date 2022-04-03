@@ -17,7 +17,7 @@
 ## FEATURES: ##
 ####
 1. Stock management
-2. Farm plant monitoring system
+2. Farm environment monitoring system
 3. Finance management
 4. Data record of the production in the farm
 5. Emergency farm fire alarm system
